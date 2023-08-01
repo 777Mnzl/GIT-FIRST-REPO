@@ -1,8 +1,8 @@
 from segno import helpers
 
 qrcode = helpers.make_wifi(
-    ssid='radhashrestha22',
-    password='CLB26C7465',
+    ssid='enter your wifi name here',
+    password='enter your password here',
     security='WPA'
 )
 
